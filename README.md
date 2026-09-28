@@ -22,8 +22,9 @@ Welcome to my GitHub! I am an Electronics and Communication Engineering student 
 
 
 
- Projects Portfolio
-Welcome to my projects directory. My work bridges the gap between digital logic design and real-world embedded applications. I focus on architecting synchronous RTL systems—such as high-throughput finite state machines in Verilog—alongside developing sensor-driven IoT nodes and hazard-sensing hardware using microcontrollers and C/C++.
+# Projects Portfolio
+ 
+My work bridges the gap between digital logic design and real-world embedded applications. I focus on architecting synchronous RTL systems—such as high-throughput finite state machines in Verilog—alongside developing sensor-driven IoT nodes and hazard-sensing hardware using microcontrollers and C/C++.
 
 Directory Overview
 Below is a breakdown of the specific project folders included in this directory:
